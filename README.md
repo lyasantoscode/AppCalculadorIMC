@@ -1,2 +1,2 @@
-<img src="app..xcf" alt="Texto alternativo" width="300"/>
+<img src="app.png" alt="Texto alternativo" width="300"/>
 
